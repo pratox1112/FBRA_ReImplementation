@@ -90,7 +90,7 @@ fbra_reimplementation/
 
 ### **1. Clone the repository**
 ```sh
-git clone https://github.com/<your-username>/fbra_reimplementation.git
+git clone https://github.com/pratox1112/FBRA_ReImplementation.git
 cd fbra_reimplementation
 ```
 
@@ -187,12 +187,9 @@ The FBRA algorithm (`fbra/verifier.py`) does not need any modification.
 
 ---
 
-## 📜 License
-
-You can add your own license (MIT/GPL/etc.) if needed.
-
----
-
 ## 👤 Author
 
-This implementation was created as part of an independent research project on NNCS verification and Python-based reproducibility.
+Pratosh Karthikeyan
+Ahilesh Vadivel
+
+
